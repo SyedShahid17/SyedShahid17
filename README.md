@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SyedShahid17
-- 👀 I’m interested in development especially PYTHON, HTML 
-- 🌱 I’m currently learning django as well as javascript 
-- 💞️ I’m looking to collaborate on Python related projects which would make me stronger at my base. 
-     And also projects related raspberry Pi,Arduino would really light me up .
+- 👀 My arsenal - Angular, React, NodeJS, MongoDB, SQL(5 star on HackerRank), Python(3 star on HackerRank).
+- LeetCode profile - https://leetcode.com/ss0363626/ 
 - 📫 How to reach me: well you can always add comments or mail me on ss0363626@gmail.com 
 
 <!---
